@@ -1,5 +1,4 @@
 # javascript
-<h1>JavaScript tutorial</h1>
 <ol>
 <li>What is JavaScript</li>
 <li>Setting Up the Development Environment</li>
