@@ -26,7 +26,7 @@
 <li>Type ‘!’ and press the tab key to generate an HTML boilerplate</li>
 <li>Save changes</li>
 <li>Open the extensions tab in VSCode and search for live server (a lightweight web server) install and restart VSCode</li>
-<li>Right click on index.html and select ‘Open with Live Server’ – This will open your default browser and point to http://127.0.0.1:5500/index.html</li>
+<li>Right click on index.html and select ‘Open with Live Server’ – This will open your default browser</li>
 Back in VSCode in the body section add some html code; 
 <code>&lt;h1&gt;Hello World&lt;/h1&gt; </code>
 
